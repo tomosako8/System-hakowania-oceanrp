@@ -31,5 +31,5 @@ needItem -- Item potrzebny do hakowania lub wiercenia
 
 
 LINK DO COOKIE LEAKS 
-https://discord.gg/u6SUNjC4tX
-https://discord.gg/u6SUNjC4tX
+https://discord.gg/cookieleaks
+https://discord.gg/cookieleaks
